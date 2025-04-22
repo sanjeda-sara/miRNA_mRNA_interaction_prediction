@@ -1,4 +1,4 @@
-*******Predicting miRNA-mRNA using Sequences and RNA Secondary Structure******
+******Predicting miRNA-mRNA using Sequences and RNA Secondary Structure******
 
 This project aims to predict miRNA/isomiR–mRNA interactions using a hybrid deep learning model. Normal RNA Sequences, RNA secondary structure has been explored for this task. This repository includes initial data visualization, model implementation, training, evaluation, and final report — all built with bioinformatics research in mind.
 

@@ -12,7 +12,8 @@ This project explores miRNA-mRNA interaction prediction using advanced models wi
 
 The final report follows the Bioinformatics Journal template and complies with the 7-page or 5000-word limit.
 
-** Getting Started**
+**Getting Started**
+
 🔧 Setup in Google Colab
 Upload the project files (visualization.ipynb, main.ipynb, projectreport.pdf) to your Colab environment.
 
@@ -30,5 +31,5 @@ The current notebook is set to train for 10 epochs due to hardware limitations.
 
 You are encouraged to increase the number of epochs if using a more powerful machine with better GPU support. More epochs typically yield better performance.
 
-📄 Project Report
+📄 **Project Report**
 You can find the project report in projectreport.pdf, which summarizes the motivation, methodology, results, and discussion — all within the constraints of the Bioinformatics Journal format.

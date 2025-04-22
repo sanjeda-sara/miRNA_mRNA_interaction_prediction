@@ -1,27 +1,28 @@
 This project aims to predict miRNA/isomiR–mRNA interactions using a hybrid deep learning model. Normal RNA Sequences, RNA secondary structure has been explored for this task. This repository includes initial data visualization, model implementation, training, evaluation, and final report — all built with bioinformatics research in mind.
 
-Overview
-We explore interaction prediction using advanced models with the following structure:
+**Overview**
 
-Data Analysis & Visualization (visualization.ipynb)
+This project explores miRNA-mRNA interaction prediction using advanced models with the following structure:
 
-Model Training & Evaluation (main.ipynb)
+  - Data Analysis & Visualization (visualization.ipynb)
 
-Project Report (projectreport.pdf)
+  - Model Training & Evaluation (main.ipynb)
+
+  - Project Report (projectreport.pdf)
 
 The final report follows the Bioinformatics Journal template and complies with the 7-page or 5000-word limit.
 
- Getting Started
+** Getting Started**
 🔧 Setup in Google Colab
 Upload the project files (visualization.ipynb, main.ipynb, projectreport.pdf) to your Colab environment.
 
-Load the dataset to the local session in Colab.
+  - Load the dataset to the local session in Colab.
 
-Run visualization.ipynb to perform data analysis and visualizations.
+  - Run visualization.ipynb to perform data analysis and visualizations.
 
-Run main.ipynb to train the model and visualize results.
+  - Run main.ipynb to train the model and visualize results.
 
-Note: The project is configured for Colab, but you can also run it locally with appropriate GPU support.
+Note: The project is configured for Colab since I had some constraint regarding the resources, however, you can also run it locally with appropriate GPU support.
 
 
  Training Tips
